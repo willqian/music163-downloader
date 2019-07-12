@@ -1,14 +1,14 @@
 {
-  "name": "music163-download",
+  "name": "music163-downloader",
   "version": "1.0.0",
-  "description": "music 163 download",
+  "description": "music 163 downloader",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "163",
-    "download"
+    "downloader"
   ],
   "author": "willqian",
   "license": "ISC",
