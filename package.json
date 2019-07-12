@@ -1,0 +1,20 @@
+{
+  "name": "music163-download",
+  "version": "1.0.0",
+  "description": "music 163 download",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "163",
+    "download"
+  ],
+  "author": "willqian",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "express": "^4.17.1",
+    "request": "^2.88.0"
+  }
+}
