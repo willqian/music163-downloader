@@ -36,7 +36,7 @@ let bk3x = function(Y3x, _e3x) {
     url: Y3x,
     method: "POST",
     headers: {
-        "content-type": "	application/x-www-form-urlencoded",
+        "content-type": "application/x-www-form-urlencoded",
     },
     body: e3x.data
   }, function(error, response, body) {
